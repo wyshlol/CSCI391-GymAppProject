@@ -35,7 +35,23 @@ class Datasource {
             Workout(R.string.legsday3),
             Workout(R.string.legsday4),
             Workout(R.string.legsday5),
-            Workout(R.string.legsday6)
+            Workout(R.string.legsday6),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test),
+            Workout(R.string.test)
         )
     }
 }

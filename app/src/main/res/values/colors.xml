@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="tart_orange">#FF312E</color>
+    <color name="jet">#333138</color>
+    <color name="rich_black">#000103</color>
+    <color name="gray">#515052</color>
+    <color name="baby_powder">#FFFFFA</color>
 </resources>
