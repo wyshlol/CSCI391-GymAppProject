@@ -1,25 +1,25 @@
 <resources>
     <string name="app_name">CSCI391 Gym App Project</string>
 
-    <string name="pullday1">Lat Pull Down 10/8/8/6</string>
-    <string name="pullday2">Seated Rows 10/8/8/6</string>
-    <string name="pullday3">Preacher Curls 10/8/8/6</string>
-    <string name="pullday4">Hammer Curls 10/8/8/6</string>
-    <string name="pullday5">Single Arm Lat Pull Down 10/8/8/6</string>
-    <string name="pullday6">Assisted Pull Ups 10/10/10</string>
+    <string name="pullday1"><b>Lat Pull Down</b> \n 10/8/8/6\n</string>
+    <string name="pullday2"><b>Seated Rows</b> \n 10/8/8/6\n</string>
+    <string name="pullday3"><b>Preacher Curls</b> \n 10/8/8/6\n</string>
+    <string name="pullday4"><b>Hammer Curls</b> \n 10/8/8/6\n</string>
+    <string name="pullday5"><b>Single Arm Lat Pull Down</b> \n 10/8/8/6\n</string>
+    <string name="pullday6"><b>Assisted Pull Ups</b> \n 10/10/10\n</string>
 
-    <string name="pushday1">Bench Press 10/8/8/6</string>
-    <string name="pushday2">Dumbbell Press 10/8/8/6</string>
-    <string name="pushday3">Triceps Pullovers 10/8/8/6</string>
-    <string name="pushday4">Incline Bench 10/8/8/6</string>
-    <string name="pushday5">Tricep Pulldowns 10/8/8/6</string>
-    <string name="pushday6">Pectoral Flys 10/10/10</string>
+    <string name="pushday1"><b>Bench Press</b> \n 10/8/8/6\n</string>
+    <string name="pushday2"><b>Dumbbell Press</b> \n 10/8/8/6\n</string>
+    <string name="pushday3"><b>Triceps Pullovers</b> \n 10/8/8/6\n</string>
+    <string name="pushday4"><b>Incline Bench</b> \n 10/8/8/6\n</string>
+    <string name="pushday5"><b>Tricep Pulldowns</b> \n 10/8/8/6\n</string>
+    <string name="pushday6"><b>Pectoral Flys</b> \n 10/10/10\n</string>
 
-    <string name="legsday1">Leg Press 10/8/8/6</string>
-    <string name="legsday2">Sissy Squats 10/8/8/6</string>
-    <string name="legsday3">Calf Raises 10/8/8/6</string>
-    <string name="legsday4">Leg Curl 10/8/8/6</string>
-    <string name="legsday5">Hip Abductor 12/10/10/8</string>
-    <string name="legsday6">Hip Adductor 12/10/10/8</string>
+    <string name="legsday1"><b>Leg Press</b> \n 10/8/8/6\n</string>
+    <string name="legsday2"><b>Sissy Squats</b> \n 10/8/8/6\n</string>
+    <string name="legsday3"><b>Calf Raises</b> \n 10/8/8/6\n</string>
+    <string name="legsday4"><b>Leg Curl</b> \n 10/8/8/6\n</string>
+    <string name="legsday5"><b>Hip Abductor</b> \n 12/10/10/8\n</string>
+    <string name="legsday6"><b>Hip Adductor</b> \n 12/10/10/8\n</string>
 
 </resources>
